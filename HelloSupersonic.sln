@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C14D7FF4-6663-DF2D-6056-5AB4279F8272}") = "HelloSupersonic", "Assembly-CSharp.csproj", "{1EA51BAD-884A-024A-9870-74F87361D888}"
+EndProject
+Project("{C14D7FF4-6663-DF2D-6056-5AB4279F8272}") = "HelloSupersonic", "Assembly-CSharp-Editor.csproj", "{DFF016FB-67B0-D0DF-3B68-90A6C1EEF0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA51BAD-884A-024A-9870-74F87361D888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA51BAD-884A-024A-9870-74F87361D888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA51BAD-884A-024A-9870-74F87361D888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA51BAD-884A-024A-9870-74F87361D888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF016FB-67B0-D0DF-3B68-90A6C1EEF0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF016FB-67B0-D0DF-3B68-90A6C1EEF0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF016FB-67B0-D0DF-3B68-90A6C1EEF0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF016FB-67B0-D0DF-3B68-90A6C1EEF0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

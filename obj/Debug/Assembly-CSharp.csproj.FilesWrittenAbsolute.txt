@@ -1,0 +1,17 @@
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/obj/Debug/Assembly-CSharp.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/UnityEngine.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/UnityEditor.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vincent.yao/Documents/Mediation/Unity/HelloSupersonic/Temp/bin/Debug/Mono.Cecil.Mdb.dll
